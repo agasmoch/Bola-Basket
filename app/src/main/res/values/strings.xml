@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Just Order</string>
+    <string name="jumlah_pesanan">Quantity Order</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="pesan">ORDER</string>
+    <string name="_0">0</string>
+    <string name="foto_makanan">Food Photo</string>
+</resources>

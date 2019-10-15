@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pesan Aja</string>
+    <string name="jumlah_pesanan">Jumlah Pesanan</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="pesan">PESAN</string>
+    <string name="_0">0</string>
+    <string name="foto_makanan">Foto Makanan</string>
+</resources>
